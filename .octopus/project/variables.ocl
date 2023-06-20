@@ -1,5 +1,1 @@
-variable "Exported.Project.IgnoreAllChanges" {
-    value "true" {
-        process = ["runbook/1-serialize-project"]
-    }
-}
+
